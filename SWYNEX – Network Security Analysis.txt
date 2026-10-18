@@ -1,0 +1,44 @@
+SWYNEX – Network Security Analysis
+
+Task: 2
+Topic: Network Security Analysis
+Tool: Wireshark
+Environment: Authorized sample network capture
+
+1. Objective
+
+To analyze network traffic, identify protocols, and examine potential security concerns using Wireshark.
+
+2. Methodology
+
+1. Opened an authorized sample network capture in Wireshark.
+2. Examined packet details and protocol information.
+3. Used display filters to inspect relevant traffic.
+4. Reviewed the results for potential security concerns.
+
+3. Protocol Analysis
+
+Record the protocols actually observed in the sample, such as TCP, UDP, DNS, TLS, or HTTP.
+
+4. Findings and Evidence
+
+For each observation, record:
+
+- Protocol or component
+- Packet number or other relevant evidence
+- Observed behavior
+- Potential security concern, if supported by evidence
+- Recommended mitigation
+
+5. Recommendations
+
+- Use encrypted protocols where appropriate.
+- Keep network devices and software updated.
+- Monitor unusual network activity.
+- Apply appropriate firewall rules and access controls.
+
+6. Conclusion
+
+The analysis provided practical experience in examining network traffic and understanding how protocol analysis can support defensive security monitoring.
+
+Note: Add actual observations and screenshots from the sample. Do not report unverified risks as confirmed vulnerabilities.
